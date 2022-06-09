@@ -1,0 +1,6 @@
+module Pods_pushup_pushupTests {
+  umbrella header "Pods-pushup-pushupTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
